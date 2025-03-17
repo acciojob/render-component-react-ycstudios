@@ -1,6 +1,5 @@
 import React, {Component, useState} from "react";
 import '../styles/App.css';
-import React, { useState } from "react";
 
 const App = () => {
   return (
